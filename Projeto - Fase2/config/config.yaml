@@ -1,6 +1,0 @@
-solver: "glpk"
-media: "M9"
-
-# Filtros de qualidade CheckM (normas MIMAG)
-min_completeness: 50
-max_contamination: 10
