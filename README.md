@@ -245,8 +245,8 @@ CPLEX is free for academia via the [IBM Academic Initiative](https://academic.ib
 
 ## 👤 Authors
 
-**Bruno Ferreira** · **Artur Gomes**
-Supervised by **Doutora Andreia Salvador** and **Professor Óscar Dias**
+**Bruno Ferreira**  
+Supervised by **Artur Gomes** **Doutora Andreia Salvador** and **Professor Óscar Dias**
 Universidade do Minho — Centre of Biological Engineering (CEB)
 
 ---
